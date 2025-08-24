@@ -1,6 +1,6 @@
 .Odd, .Third
 {
-    background-color: #ff0000;
+    background-color: #ffa0a0;
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
@@ -12,7 +12,7 @@
 .Third{font-size: 24px;}
 
 #ID2{
-    background-color: #00ff00;
+    background-color: #80ff80;
     font-size: 24px;
     font-weight: bold;
 }
